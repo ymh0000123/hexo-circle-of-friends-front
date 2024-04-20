@@ -17,7 +17,7 @@ export function getHomeRandompost() {
 
 export function getAllArticleInfo(rule = "created") {
   return AnRequest.get({
-    url: "all?rule=" + rule,
+    url: "data.json?rule=" + rule,
   });
 }
 
