@@ -9,8 +9,8 @@
 const DefaultConfig: any = {
   // private_api_url: 'https://fcircle.yyyzyyyz.cn',
   // private_api_url: 'http://192.168.142.88:8000',
-  private_api_url: "https://friends.anheyu.com/",
-  public_api_url: "https://friends.anheyu.com/",
+  private_api_url: "https://ymh-friends-front.pages.dev/",
+  public_api_url: "https://ymh-friends-front.pages.dev/",
   page_default_number: 20,
   page_turning_number: 20,
   error_img: "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c",
